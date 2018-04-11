@@ -4,7 +4,7 @@ An implementation of a mesh simplification algorithm. the paper that describes t
 
 the algorithm is mainly implemented in the obj_loader file, after parsing the obj file and creating a mesh we simplify it and present the original and the simplified version  side by side for evaluation.
 
-![Alt Text](https://media.giphy.com/media/2WimT14EfnNcvKFQyw/giphy.gif)
+![](https://media.giphy.com/media/2WimT14EfnNcvKFQyw/giphy.gif)
 
 
 <img src="https://media.giphy.com/media/2WimT14EfnNcvKFQyw/giphy.gif" width="400" height="400" />
