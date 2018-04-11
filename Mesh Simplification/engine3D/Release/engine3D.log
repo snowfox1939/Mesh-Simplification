@@ -1,0 +1,16 @@
+﻿  lineMesh.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\lineMesh.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  mesh.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  MovableGLM.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\MovableGLM.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  obj_loader.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  scene.cpp
+scene.cpp(2): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  shader.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\shader.h(5): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  shape.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\MovableGLM.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  texture.cpp
+texture.cpp(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory

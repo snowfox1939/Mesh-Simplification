@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\meirs\OneDrive\מסמכים\Visual Studio 2015\Projects\final\final\ClassExample2[1]\ClassExample2[1]\ClassExample2\display\inputManager.h(76): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+main.obj : error LNK2001: unresolved external symbol "public: virtual __thiscall Display::~Display(void)" (??1Display@@UAE@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Display::pullEvent(void)" (?pullEvent@Display@@QAEXXZ)
+main.obj : error LNK2001: unresolved external symbol "public: bool __thiscall Display::toClose(void)" (?toClose@Display@@QAE_NXZ)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Display::SwapBuffers(void)" (?SwapBuffers@Display@@QAEXXZ)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Display::Clear(float,float,float,float)" (?Clear@Display@@QAEXMMMM@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __thiscall Display::Display(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Display@@QAE@HHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual __thiscall Scene::~Scene(void)" (??1Scene@@UAE@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Scene::resize(int,int,int,int)" (?resize@Scene@@QAEXHHHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Scene::draw(int,int,bool)" (?draw@Scene@@QAEXHH_N@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Scene::addShader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?addShader@Scene@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __thiscall Scene::addShape(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?addShape@Scene@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __thiscall Scene::Scene(struct glm::detail::tvec3<float,0>,float,float,float,float)" (??0Scene@@QAE@U?$tvec3@M$0A@@detail@glm@@MMMM@Z)
+C:\Users\meirs\OneDrive\מסמכים\Visual Studio 2015\Projects\final\final\ClassExample2[1]\ClassExample2[1]\ClassExample2\Release\ClassExample2.exe : fatal error LNK1120: 12 unresolved externals

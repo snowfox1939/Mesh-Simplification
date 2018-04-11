@@ -1,0 +1,17 @@
+﻿  obj_loader.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(30): warning C4101: 'bla1': unreferenced local variable
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(348): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(483): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(509): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(539): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(547): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(788): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(846): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\mesh simplification vgp\mesh simplification\engine3d\obj_loader.cpp(847): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  engine3D.vcxproj -> C:\Users\meirs\OneDrive\מסמכים\Visual Studio 2015\Projects\Mesh Simplification VGP\Mesh Simplification\Debug\engine3D.lib
