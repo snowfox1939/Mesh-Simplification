@@ -30,3 +30,10 @@ the algorithm is mainly implemented in the obj_loader file, after parsing the ob
       left - reduction to 500 faces. right - orignal of 3922 faces. 
 <a href="http://tinypic.com?ref=2rw2874" target="_blank"><img src="http://i65.tinypic.com/2rw2874.png" border="0" alt="Image and video hosting by TinyPic"></a>
 <a href="http://tinypic.com?ref=k024pk" target="_blank"><img src="http://i66.tinypic.com/k024pk.png" border="0" alt="Image and video hosting by TinyPic"></a>
+#  
+#
+#   
+      
+      left - reduction to 100 faces. right - orignal of 3922 faces. 
+<a href="http://tinypic.com?ref=1zzvno" target="_blank"><img src="http://i65.tinypic.com/1zzvno.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=2zp5agy" target="_blank"><img src="http://i66.tinypic.com/2zp5agy.png" border="0" alt="Image and video hosting by TinyPic"></a>
